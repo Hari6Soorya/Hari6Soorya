@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Hari6Soorya
-- 👀 I’m interested in ethical hacking.
-- 🌱 I’m currently learning pen tester.
-- 📫 How to reach me through github
+- 👀 I’m interested in cloud security.
+- 🌱 I’m currently learning to become cloud security engineer.
+
+
 
 <!---
 Hari6Soorya/Hari6Soorya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
